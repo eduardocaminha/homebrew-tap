@@ -1,9 +1,9 @@
 class Ralph < Formula
   desc "Autonomous Claude Code loop driver — TUI dashboard + 4-mode resume"
   homepage "https://github.com/eduardocaminha/ralph-cli"
-  url "https://github.com/eduardocaminha/ralph-cli/releases/download/v0.1.0/ralph-darwin-arm64.tar.gz"
-  version "0.1.0"
-  sha256 "d77fb8c627296eee3a41b71b05ae935674a494ecbd72d3c3507326c9950d1294"
+  url "https://github.com/eduardocaminha/ralph-cli/releases/download/v0.1.1/ralph-darwin-arm64.tar.gz"
+  version "0.1.1"
+  sha256 "ce94764e221a12ee7548c9a468cbcd876fcb95f008f30fe7568a0a89051e8b3d"
   license "MIT"
 
   livecheck do
